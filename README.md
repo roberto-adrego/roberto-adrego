@@ -18,6 +18,12 @@ Olá, Esse é o GITHUB público de Roberto Rodrigues
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roberto-adrego&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
 </div>
+
+<p><h3>Linguagens mais usadas:</h3></p>
+<div>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-adrego&layout=pie">
+</div>
+
   
 <!--
 **roberto-adrego/roberto-adrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
